@@ -1,0 +1,33 @@
+﻿body
+{
+    background-color:aqua;
+}
+div {
+    background-color: azure;
+    width: 800px;
+    height: 400px;
+    color: brown;
+    border: 22px double red;
+    border-radius: 120px;
+    padding: 30px;
+    margin: 0 auto;
+    margin-top: 100px;
+
+}
+h1{
+    color:red;
+    background-color:darkgray;
+}
+#elso
+{text-align:center;
+ font-family:Arial;
+ font-size:40px;
+ color:fuchsia;
+ width:50%;
+ margin: 0 auto;
+ border: 2px solid red;
+ border-radius: 50%;
+}
+.mm{
+    text-align:right;
+}
